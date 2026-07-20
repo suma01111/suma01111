@@ -24,16 +24,6 @@ I build reliable web applications and explore how AI can improve software-engine
 - Interested in generative AI, repository intelligence, image processing, and developer productivity
 - Consistently strengthening data structures and algorithms through C++ problem-solving
 
-## 💼 Experience
-
-### Software Development Engineer Intern — Xelron AI
-
-`May 2026 – Present` · `AI / Full Stack` · `Remote`
-
-- Building AI-powered applications that support software-engineering workflows
-- Developing tools that analyse repositories and pull requests to generate summaries, acceptance criteria, edge cases, and implementation guidance
-- Automating technical documentation using LLM-based systems
-- Collaborating in an Agile environment to develop scalable full-stack solutions
 
 ## 🧰 Technical Skills
 
