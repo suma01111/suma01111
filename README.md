@@ -1,91 +1,104 @@
 <div align="center">
 
-# Hi, I'm Sunita 👋
+# Sunita Choudhary
 
-### Full-Stack Developer · AI/ML Learner · Problem Solver
+### Full-Stack Developer · AI-Assisted Products · Computer Science Student
 
-I build practical web applications and explore intelligent systems through hands-on projects.  
-My current focus is creating reliable full-stack products, strengthening data structures and algorithms, and applying Python to AI and image-processing problems.
+I build reliable web applications and explore how AI can improve software-engineering workflows. My work combines thoughtful interfaces, maintainable backend systems, structured data, and practical problem-solving.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tau-sandy-90.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-suma01111-181717?style=for-the-badge&logo=github)](https://github.com/suma01111)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tau-sandy-90.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunita-choudhary-12941028a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunita.chxx@gmail.com)
 
 </div>
 
-## My Portfolio
+## About
 
-Visit my personal portfolio to learn more about my experience, technical skills, education, and journey as a developer.
+- Software Development Engineer Intern working on AI-powered developer tools
+- B.Tech Computer Science and Engineering student at IIIT Vadodara
+- Full-stack developer with experience across React, Node.js, Express, and databases
+- Interested in generative AI, repository intelligence, image processing, and developer productivity
+- Consistently strengthening data structures and algorithms through C++ problem-solving
 
-➡️ **[View my portfolio](https://portfolio-tau-sandy-90.vercel.app)**
+## Experience
 
-## About Me
+### Software Development Engineer Intern — Xelron AI
 
-- 🔭 Building full-stack applications with the MERN stack
-- 🌱 Developing skills in AI, machine learning, image processing, and federated systems
-- 🧠 Practising data structures and algorithms in C++
-- 💡 Interested in turning real-world problems into useful, maintainable software
-- 🤝 Open to internships, collaborative projects, and learning opportunities
+`May 2026 – Present` · `AI / Full Stack` · `Remote`
 
-## Tech Stack
+- Building AI-powered applications that support software-engineering workflows
+- Developing tools that analyse repositories and pull requests to generate summaries, acceptance criteria, edge cases, and implementation guidance
+- Automating technical documentation using LLM-based systems
+- Collaborating in an Agile environment to develop scalable full-stack solutions
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3)
+## Technical Skills
 
-**Web Development**  
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb)
-![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel)
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript, Python, C++, C, SQL |
+| Frontend | React, HTML5, CSS3, Vite |
+| Backend | Node.js, Express, REST APIs |
+| Databases | MongoDB, MySQL, DBMS |
+| AI & Engineering | Generative AI, LLMs, Prompt Engineering, Image Processing |
+| Foundations | Data Structures & Algorithms, OOP, Operating Systems, Computer Networks |
+| Tools | Git, GitHub, Vercel |
 
 ## Featured Projects
 
 ### [Blood Bank Management System](https://github.com/suma01111/Blood-Bank-Management-System..)
 
-A full-stack MERN application for managing donors, recipients, hospitals, blood inventory, and emergency requests, with secure role-based access.
+A full-stack MERN platform for coordinating donors, recipients, hospitals, blood inventory, and emergency requests through secure role-based workflows.
 
-`MongoDB` `Express` `React` `Node.js` `JavaScript`
+**Highlights:** Role-based access · Inventory management · Emergency-request handling  
+**Stack:** React · Node.js · Express · MongoDB · JavaScript
 
-### [College Management System — DBMS](https://github.com/suma01111/College-Management-System-DBMS)
+### [College Management System](https://github.com/suma01111/College-Management-System-DBMS)
 
-A database-focused management application demonstrating full-stack development and structured data workflows.
+A role-based academic platform that brings administrators, faculty, and students into structured workflows for course management, enrollment, and results.
 
-`JavaScript` `DBMS` `Full Stack`
+**Highlights:** Three role-specific dashboards · Student enrollment · Relational data design  
+**Stack:** React · Node.js · Express · MySQL
 
 ### [Federated System](https://github.com/suma01111/CSIT342_-Federated_System)
 
 A Python project exploring federated-system concepts and distributed intelligent workflows.
 
-`Python` `Federated Systems`
+**Focus:** Federated architecture · Distributed workflows · Python
 
 ### [Image Processing](https://github.com/suma01111/Image-Processing-)
 
-Hands-on implementations of image-processing concepts using Python.
+Practical implementations and experiments covering core image-processing concepts with Python.
 
-`Python` `Image Processing`
+**Focus:** Image transformations · Algorithm implementation · Python
 
-## Current Goals
+## Portfolio
 
-- Build and document production-ready full-stack projects
-- Improve problem-solving through consistent DSA practice
-- Explore practical AI/ML and computer-vision applications
-- Contribute to meaningful open-source projects
+My portfolio brings together my professional experience, technical skills, education, leadership, and project journey.
+
+**[Visit my portfolio →](https://portfolio-tau-sandy-90.vercel.app)**
+
+## Education
+
+### B.Tech in Computer Science and Engineering
+
+**Indian Institute of Information Technology Vadodara** · `2023 – 2027`
+
+Relevant areas include algorithms, databases, software engineering, operating systems, computer networks, object-oriented programming, and modern web development.
+
+## Current Focus
+
+- Developing production-ready full-stack applications
+- Building practical generative-AI and developer-productivity tools
+- Improving problem-solving through consistent DSA practice
+- Writing clearer documentation and more maintainable software
+- Contributing to meaningful open-source projects
 
 ---
 
 <div align="center">
 
-### Let's build something useful.
+### Open to internships, collaborations, and conversations about technology.
 
-Explore my repositories or reach out through the contact form on my [portfolio](https://portfolio-tau-sandy-90.vercel.app).
+[Portfolio](https://portfolio-tau-sandy-90.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sunita-choudhary-12941028a/) · [GitHub](https://github.com/suma01111) · [Email](mailto:sunita.chxx@gmail.com)
 
 </div>
