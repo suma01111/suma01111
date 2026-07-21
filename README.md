@@ -120,7 +120,7 @@ Practical implementations and experiments covering core image-processing concept
 
 My portfolio brings together my professional experience, technical skills, education, leadership, and project journey.
 
-**[Visit my portfolio →](https://portfolio-tau-sandy-90.vercel.app)**
+**[Visit my portfolio →](https://sunita-choudhary.vercel.app/)**
 
 ## 🎓 Education
 
