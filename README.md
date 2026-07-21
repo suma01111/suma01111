@@ -144,6 +144,6 @@ Relevant areas include algorithms, databases, software engineering, operating sy
 
 ### Open to internships, collaborations, and conversations about technology.
 
-[Portfolio](https://portfolio-tau-sandy-90.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sunita-choudhary-12941028a/) · [GitHub](https://github.com/suma01111) · [Email](mailto:sunita.chxx@gmail.com)
+[Portfolio](https://sunita-choudhary.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sunita-choudhary-12941028a/) · [GitHub](https://github.com/suma01111) · [Email](mailto:sunita.chxx@gmail.com)
 
 </div>
